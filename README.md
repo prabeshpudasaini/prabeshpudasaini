@@ -29,8 +29,12 @@ My main area of expertise is mobile application development. I possess strong sk
 
 <a href="https://github.com/prabeshpudasaini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabeshpudasaini&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/prabeshpudasaini/e2ee_chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prabeshpudasaini&repo=e2ee_chat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prabeshpudasaini/Document_Sharing_App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prabeshpudasaini&repo=Document_Sharing_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/prabeshpudasaini/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prabeshpudasaini&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prabeshpudasaini/notes_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prabeshpudasaini&repo=notes_app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+-->
+
